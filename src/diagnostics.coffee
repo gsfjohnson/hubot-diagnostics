@@ -1,12 +1,6 @@
 # Description
 #   hubot scripts for diagnosing hubot
 #
-# Commands:
-#   hubot ping - Reply with pong
-#   hubot adapter - Reply with the adapter
-#   hubot echo <text> - Reply back with <text>
-#   hubot time - Reply with current time
-#
 # Author:
 #   Josh Nichols <technicalpickles@github.com>
 
